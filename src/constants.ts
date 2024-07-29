@@ -1,1 +1,2 @@
 export const BASE_URL = "https://na.finalfantasyxiv.com/lodestone/worldstatus/";
+export const SELECTOR = "body > div.ldst__bg > div.ldst__contents.clearfix > div:nth-child(7) > ul > li > ul > li > div";

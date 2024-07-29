@@ -5,8 +5,12 @@
     "build": "tsc"
   },
   "devDependencies": {
+    "@types/cheerio": "^0.22.35",
     "@types/node": "^22.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
   }
 }
